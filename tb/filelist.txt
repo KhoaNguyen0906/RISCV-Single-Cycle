@@ -1,0 +1,16 @@
+../src/adder_foursv
+../src/ALU.sv
+../src/brcomp.sv
+../src/ConTrolUnit.sv
+../src/design.sv
+../src/function3.sv
+../src/imem.sv
+../src/immgen.sv
+../src/lsu.sv
+../src/mux_data.sv
+../src/mux1.sv
+../src/muxa.sv
+../src/muxb.sv
+../src/pc.sv
+../src/regfile.sv
+../src/StoreFunc3.sv
